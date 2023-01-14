@@ -3,7 +3,7 @@ plugins {
 }
 
 group 'eu.cakihorse'
-version '1.0-SNAPSHOT'
+version '1.0-SNAPSHO'
 
 repositories {
     mavenCentral()
